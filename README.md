@@ -37,7 +37,7 @@ Cooldowns, durations and speeds are currently set in the code and cannot be chan
 ## Installation
 
 1. Make sure ProjectKorra is installed and working.
-2. Download `SandDefense.jar` from the [Releases](https://github.com/aschentar/SandDefense/releases) page.
+2. Download the jar from the [Releases](https://github.com/aschentar/SandDefense/releases) page.
 3. Put it in your server's `plugins/` folder.
 4. Restart the server.
 
@@ -69,7 +69,7 @@ cd SandDefense
 ./gradlew clean build
 ```
 
-The jar will be in `build/libs/SandDefense.jar`.
+The jar will be in `build/libs/`.
 
 ## Credits
 
