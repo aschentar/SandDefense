@@ -1,0 +1,9 @@
+name: SandDefense
+version: '${version}'
+main: me.aschentar.sanddefense.SandDefenseAddon
+api-version: '1.21'
+depend: [ProjectKorra]
+softdepend: [BendingGUI]
+author: Aschentar
+website: https://github.com/aschentar/SandDefense
+description: '${description}'
