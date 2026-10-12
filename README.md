@@ -6,8 +6,6 @@ An addon for [ProjectKorra](https://projectkorra.com) that adds four defensive a
 [![License: LGPL v2.1](https://img.shields.io/badge/license-LGPL--2.1-blue.svg)](LICENSE)
 [![Server: Purpur 1.21.11](https://img.shields.io/badge/tested%20on-Purpur%201.21.11-green.svg)](https://purpurmc.org)
 
-[GIF soon]
-
 SandDefense is a beta addon. I tested it on my own server running Purpur 1.21.11, but not every situation. If something breaks, please open an [issue](https://github.com/aschentar/SandDefense/issues). Follow the repository for updates.
 
 I have played a lot on bending servers, and Earthbending is my favorite element. I am also developing my own bending-themed project, and I want to keep building in this direction. I hope you like SandDefense. If you have suggestions, get in touch through [Issues](https://github.com/aschentar/SandDefense/issues) or by email: Aschentar@macaw.me.
