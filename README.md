@@ -16,7 +16,7 @@ I have played a lot on bending servers, and Earthbending is my favorite element.
 
 | Ability | How to use |
 | :--- | :--- |
-| **SandArmor** | Sneak while standing on sand or sandstone. You get sand armor, Speed and Resistance for 30 seconds. |
+| **SandArmor** | Bind it and select its slot, then sneak while standing on sand or sandstone. You get sand armor, Speed and Resistance for 30 seconds. |
 | **SandShield** | Hold sneak to raise a dome that blocks projectiles. Left-click to throw a disc that pushes entities away and deflects attacks coming straight at you. |
 | **DustVeil** | Left-click to raise a curved wall of dust. Projectiles lose speed when they cross it, and entities that walk through get blindness and slowness. |
 | **DuneDrift** | Left-click on sand to dash. Sneak to start or stop surfing across sand, red sand and sandstone. |
