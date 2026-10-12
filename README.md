@@ -16,10 +16,30 @@ I have played a lot on bending servers, and Earthbending is my favorite element.
 
 | Ability | How to use |
 | :--- | :--- |
-| **SandArmor** | Sneak while standing on sand or sandstone. You get sand armor, Speed and Resistance for 30 seconds. |
-| **SandShield** | Hold sneak to raise a dome that blocks projectiles. Left-click to throw a disc that pushes entities away and deflects attacks coming straight at you. |
+| **SandArmor** | Sneak while standing on sand or sandstone. You get sand armor, Speed and Resistance for 30 seconds. 
+
+<img width="1280" height="720" alt="SandArmor" src="https://github.com/user-attachments/assets/b5d339a3-b613-4556-a9a0-5835bf9ffb35" />
+
+
+ **SandShield** | Hold sneak to raise a dome that blocks projectiles. Left-click to throw a disc that pushes entities away and deflects attacks coming straight at you. 
+
+<img width="1280" height="720" alt="SandShield" src="https://github.com/user-attachments/assets/0206979f-7211-4fd8-8c99-48d06fad06c6" /> 
+
+<img width="1280" height="720" alt="SandShield2" src="https://github.com/user-attachments/assets/513403ba-15fe-4389-af76-3fa5d3c5bd58" />
+
+
+
+
 | **DustVeil** | Left-click to raise a curved wall of dust. Projectiles lose speed when they cross it, and entities that walk through get blindness and slowness. |
+<img width="1280" height="720" alt="DustVeil" src="https://github.com/user-attachments/assets/d62cf1e5-2fe9-47ea-a812-75f0c1dda45e" />
+
+<img width="1280" height="720" alt="DustVeil_DuneDrift" src="https://github.com/user-attachments/assets/a7062aca-8f01-4c61-86e1-69b0684ffcb3" />
+
+
 | **DuneDrift** | Left-click on sand to dash. Sneak to start or stop surfing across sand, red sand and sandstone. |
+
+<img width="1280" height="720" alt="DuneDrift" src="https://github.com/user-attachments/assets/cc1e36f0-7dd6-4bb9-a55a-28f05d55e9f3" />
+
 
 ### Getting started
 
